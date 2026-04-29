@@ -1,0 +1,10 @@
+{
+  "Name": "KB - Wooden Sword",
+  "Description": "A toy sword made of wood. Replaces starting Keyblades for Sora and Riku.",
+  "Authors": "Cagaroo",
+  "Link": "https://github.com/Cagaroo",
+  "ID": "kb-woodensword",
+  "IsChecked": false,
+  "LinkImage": "icon.png",
+  "ArchiveImage": false
+}
