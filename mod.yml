@@ -1,15 +1,16 @@
+---
 title: KB - Wooden Sword
 originalAuthor: Cagaroo
 description: A toy sword made of wood. Replaces starting Keyblades for Sora and Riku.
-dependencies: 
 assets:
-- name: chara/wep/w_so01/mig/0/bin/w_so010.pmo
-  multi:
-  - name: chara/wep/w_so01/mig/1/bin/w_so011.pmo
-  - name: chara/wep/w_so01/mig/s/bin/w_so01s.pmo
-  - name: chara/wep/w_ri14/mig/0/bin/w_ri140.pmo
-  - name: chara/wep/w_ri14/mig/1/bin/w_ri141.pmo
-  - name: chara/wep/w_ri14/mig/s/bin/w_ri14s.pmo
-  method: copy
-  source:
-  - name: 3ds/chara_wep/10-w_so010.pmo
+  - name: chara/wep/w_so01/mig/0/bin/w_so010.pmo
+    multi:
+      - name: chara/wep/w_so01/mig/1/bin/w_so011.pmo
+      - name: chara/wep/w_so01/mig/s/bin/w_so01s.pmo
+      - name: chara/wep/w_ri14/mig/0/bin/w_ri140.pmo
+      - name: chara/wep/w_ri14/mig/1/bin/w_ri141.pmo
+      - name: chara/wep/w_ri14/mig/s/bin/w_ri14s.pmo
+    method: copy
+    source:
+      - name: 3ds/chara_wep/10-w_so010.pmo
+
