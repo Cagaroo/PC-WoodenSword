@@ -13,4 +13,3 @@ assets:
     method: copy
     source:
       - name: 3ds/chara_wep/10-w_so010.pmo
-
